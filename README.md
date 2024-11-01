@@ -2,4 +2,4 @@
 Aca estara la solución al taller de multi Threading
 
 \
-Integrantes: Harold Steven Vargas Heano y David Eduardo Lopez Jimenez
+Integrantes: Harold Stiven Vargas Henao y David Eduardo Lopez Jimenez
